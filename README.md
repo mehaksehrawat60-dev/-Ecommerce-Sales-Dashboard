@@ -20,14 +20,14 @@ The dashboard allows users to interact with the data using filters and quickly u
 
 ## Dashboard Features
 
-Region-wise Sales Analysis
-Segment-wise Analysis
-Year-wise Sales Analysis
-Category-wise Sales Analysis
-Top 5 Performance Analysis
-KPI Analysis
-Interactive filters using Excel Slicers
-Sales trend and performance visualization
+Region-wise Sales Analysis,
+Segment-wise Analysis,
+Year-wise Sales Analysis,
+Category-wise Sales Analysis,
+Top 5 Performance Analysis,
+KPI Analysis,
+Interactive filters using Excel Slicers,
+Sales trend and performance visualization.
 
 ## Key Insights
 
